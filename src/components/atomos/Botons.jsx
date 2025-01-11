@@ -1,5 +1,4 @@
 import React from 'react';
-// import './ButtonAtom.css'; // Import the CSS file
 
 const Botones = ({ onClick, actionLabel, variant }) => {
     return (
